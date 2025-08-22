@@ -28,20 +28,20 @@ layers:
   - W
   - F
   - P
-  - B
+  - G
   - J
   - L
   - U
   - Y
-  - {t: '''', s: '"'}
+  - {t: ',', s: ;}
   - ''
   - {t: _, s: \}
   - A
   - R
   - S
   - T
-  - G
-  - M
+  - D
+  - H
   - N
   - E
   - I
@@ -51,8 +51,8 @@ layers:
   - Z
   - X
   - C
-  - D
   - V
+  - B
   - $$mdi:apple-keyboard-shift$$
   - {t: $$num-nav$$, h: Num/Nav, type: info}
   - {t: '$$mdi:monitor-dashboard$$', h: Meta, type: info}
@@ -60,7 +60,7 @@ layers:
   - {t: $$num-nav$$, h: Num/Nav, type: info}
   - $$mdi:apple-keyboard-shift$$
   - K
-  - H
+  - M
   - {t: ',', s: ;}
   - {t: ., s: ':'}
   - {t: '?', s: '!'}
