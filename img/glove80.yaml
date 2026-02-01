@@ -11,7 +11,7 @@ layers:
   - F8
   - F9
   - F10
-  - F11
+  - '='
   - {t: '1', s: '!'}
   - {t: '2', s: '"'}
   - {t: '3', s: £}
@@ -23,7 +23,7 @@ layers:
   - {t: '9', s: (}
   - {t: '0', s: )}
   - F12
-  - ''
+  - $$mdi:keyboard-tab$$
   - Q
   - W
   - F
@@ -35,7 +35,7 @@ layers:
   - Y
   - {t: ',', s: ;}
   - ''
-  - {t: _, s: \}
+  - Esc
   - A
   - R
   - S
@@ -47,7 +47,7 @@ layers:
   - I
   - O
   - {t: '-', s: /}
-  - ''
+  - ¬
   - Z
   - X
   - C
@@ -65,7 +65,7 @@ layers:
   - {t: ., s: ':'}
   - {t: '?', s: '!'}
   - ''
-  - {t: '$$mdi:controller$$', h: Gaming, type: info}
+  - Reset
   - {t: $$moergo$$, h: Magic, type: info}
   - ''
   - ''

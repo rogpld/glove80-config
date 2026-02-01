@@ -366,7 +366,7 @@ text.hold {
 </g>
 <g transform="translate(28, 112)" class="key keypos-10">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
-<text x="0" y="0" class="key tap">F11</text>
+<text x="0" y="0" class="key tap">=</text>
 </g>
 <g transform="translate(84, 112)" class="key keypos-11">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
@@ -424,6 +424,7 @@ text.hold {
 </g>
 <g transform="translate(28, 168)" class="key keypos-22">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
+<use href="#mdi:keyboard-tab" xlink:href="#mdi:keyboard-tab" x="-7" y="-7" height="14" width="14.0" class="key tap glyph mdi:keyboard-tab"/>
 </g>
 <g transform="translate(84, 168)" class="key keypos-23">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
@@ -471,8 +472,7 @@ text.hold {
 </g>
 <g transform="translate(28, 224)" class="key keypos-34">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
-<text x="0" y="0" class="key tap">_</text>
-<text x="0" y="-24" class="key shifted">\</text>
+<text x="0" y="0" class="key tap">Esc</text>
 </g>
 <g transform="translate(84, 224)" class="key keypos-35">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
@@ -521,6 +521,7 @@ text.hold {
 </g>
 <g transform="translate(28, 280)" class="key keypos-46">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
+<text x="0" y="0" class="key tap">¬</text>
 </g>
 <g transform="translate(84, 280)" class="key keypos-47">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
@@ -597,10 +598,9 @@ text.hold {
 <g transform="translate(980, 280)" class="key keypos-63">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
 </g>
-<g transform="translate(28, 336)" class="key info keypos-64">
-<rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key info"/>
-<use href="#mdi:controller" xlink:href="#mdi:controller" x="-7" y="-7" height="14" width="14.0" class="key info tap glyph mdi:controller"/>
-<text x="0" y="24" class="key info hold"><tspan style="font-size: 83%">Gaming</tspan></text>
+<g transform="translate(28, 336)" class="key keypos-64">
+<rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
+<text x="0" y="0" class="key tap">Reset</text>
 </g>
 <g transform="translate(84, 336)" class="key info keypos-65">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key info"/>
